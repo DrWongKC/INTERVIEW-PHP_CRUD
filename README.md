@@ -8,10 +8,7 @@ name - varchar(100)
 description - varchar(255)
 created - date
 
-1. Create table call (users) consist of 4 columns
-
-Table name: users
-Col:
+1. Create table call (users) consist of 4 columns: Table name: users Col:
 - Id (int)
 - Name (varChar)
 - Description  (varChar)
